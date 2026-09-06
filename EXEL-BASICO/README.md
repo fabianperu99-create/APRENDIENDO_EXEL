@@ -16,6 +16,7 @@ Aprender fórmulas básicas de Excel y aplicarlas para automatizar el cálculo d
 
 ## 📊 Fórmulas Utilizadas
 ```excel
+
 Promedio: =PROMEDIO(B2:C2)
 Suma:     =SUMA(B2:C2)
 Máxima:   =MAX(B2:C2)
@@ -24,4 +25,4 @@ Estado:   =SI(D2>=13,"Aprobado","Desaprobado")
 
 ### 📸 EVIDENCIA - Resultado Final
 
-![Evidencia Proyecto 1](1.png)
+![Evidencia](1.png)
