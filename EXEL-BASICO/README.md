@@ -24,4 +24,4 @@ Estado:   =SI(D2>=13,"Aprobado","Desaprobado")
 
 ## 📸 EVIDENCIA - Resultado Final
 
-![Evidencia Proyecto 1](1.0.png)
+![Evidencia Proyecto 1](1.0.jpeg)
