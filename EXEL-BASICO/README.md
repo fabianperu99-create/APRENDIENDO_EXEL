@@ -24,5 +24,4 @@ Mínima:   =MIN(B2:C2)
 Estado:   =SI(D2>=13,"Aprobado","Desaprobado")
 
 ### 📸 EVIDENCIA - Resultado Final
-
 ![Evidencia](1.png)
