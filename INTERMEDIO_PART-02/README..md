@@ -13,4 +13,4 @@ Cuando encuentra la primera condición verdadera, devuelve el resultado y se det
 
 ### 4. EVIDENCIA
 
-![Evidencia Lab 02 - Función SI.CONJUNTO](p.jpg)
+![Evidencia Lab 02 - Función SI.CONJUNTO](p.jpeg)
