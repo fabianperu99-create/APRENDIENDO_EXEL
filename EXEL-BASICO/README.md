@@ -22,6 +22,6 @@ Máxima:   =MAX(B2:C2)
 Mínima:   =MIN(B2:C2)
 Estado:   =SI(D2>=13,"Aprobado","Desaprobado")
 
-## 📸 EVIDENCIA - Resultado Final
+### 📸 EVIDENCIA - Resultado Final
 
 ![Evidencia Proyecto 1](1.1.png)
