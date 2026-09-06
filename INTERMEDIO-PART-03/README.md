@@ -1,4 +1,4 @@
-## 📌 LAB 03: FUNCIÓN `BUSCARV` - SISTEMA DE VENTAS
+## 📌 LAB 03: FUNCIÓN `BUSCAR` - SISTEMA DE VENTAS
 
 ### 1. OBJETIVO
 Usar la función `BUSCARV` para buscar datos en una tabla y calcular totales automáticamente.
