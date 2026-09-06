@@ -10,7 +10,7 @@ Aprender a usar la función `SI` para evaluar condiciones y devolver resultados 
 ## 🧮 Fórmulas Usadas
 
 ### 1. Para saber si tiene Bono - Columna C
-```excel
-=SI(B2>=100, "SI", "NO")
+``excel
+=SI(B2>=100, "SI" , "NO")
 
-![Descripción de la imagen](GA.jpg)
+![Descripción de la imagen](GA.png)
